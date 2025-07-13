@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: filled2_rev2
+name: filled2_rev2
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble

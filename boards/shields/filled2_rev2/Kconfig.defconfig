@@ -1,0 +1,7 @@
+
+if SHIELD_FILLED2_REV2
+
+config ZMK_KEYBOARD_NAME
+    default "filled2_rev2"
+
+endif
